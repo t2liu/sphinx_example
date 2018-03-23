@@ -1,7 +1,7 @@
 """
-Created on March, 2018
+Created on March 23rd, 2018
 
-@author: Diane Woodbridge
+@author: Ting Ting Liu
 """
 import sys
 import os
